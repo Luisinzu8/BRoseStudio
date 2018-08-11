@@ -217,3 +217,38 @@ h2 {
 .section {
 	background-color: white;
 }
+/* ----------------------------------------
+   ------------ 7.SOCIAL-LIST -------------
+   ---------------------------------------- */
+.social-list li {
+  display: inline-block;
+  margin: 0 14px;
+}
+.social-list li a {
+  color: #fff;
+  font-size: 16px;
+  -webkit-transition: all 0.4s ease;
+  -moz-transition: all 0.4s ease;
+  transition: all 0.4s ease;
+}
+.social-list li:first-child {
+  margin-left: 0;
+}
+.social-list li:last-child {
+  margin-right: 0;
+}
+.social-list li:hover a {
+  color: pink;
+}
+/* ----------------------------------------
+   --------------- 21.FOOTER --------------
+   ---------------------------------------- */
+footer {
+  background: #0c0c0c;
+}
+footer p {
+  margin: 24px 0 0 0;
+  color: #fff;
+  font-size: 14px;
+  letter-spacing: 0.1em;
+}
