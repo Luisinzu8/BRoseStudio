@@ -405,16 +405,13 @@ ul.slimmenu li ul {
 	width:134px;
 	height:25px;
 	z-index:10000;
-	top:20px;
-	background-size:134px 25px;
+	top:50px;
+    background: url(../images/logo_transparent.png) no-repeat center center;
+	background-size:100%;
 	-webkit-transition : all 0.3s ease-out;
 	-moz-transition : all 0.3s ease-out;
 	-o-transition :all 0.3s ease-out;
 	transition : all 0.3s ease-out;
-}
-
-h2 {
-    color: rgb(255, 181, 209);
 }
 
 .menu-collapser {
