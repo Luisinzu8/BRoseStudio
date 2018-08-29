@@ -106,7 +106,7 @@
 			closeEffect	: 'elastic'
 		});
 		
-		
+	/*	
 	//Set your google maps parameters
 
 		var latitude = 33.9217152,
@@ -335,7 +335,7 @@
 
 		//insert the zoom div on the top left of the map
 		map.controls[google.maps.ControlPosition.LEFT_TOP].push(zoomControlDiv);
-
+*/
 
 
 		
