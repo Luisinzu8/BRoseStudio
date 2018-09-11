@@ -2481,13 +2481,13 @@ figure.vimeo a img, figure.youtube a img {
             transform: scale(1.05) translateY(-100px);
 }
 .contact-det:nth-of-type(1) {
-	background-color:#242424;
+	background-color:#ffc9c9;
 }
 .contact-det:nth-of-type(2) { 
-	background-color:#171717;
+	background-color:#ffd3d3;
 }
 .contact-det:nth-of-type(3) { 
-	background-color:#101010;
+	background-color:#ffe0e0;
 }
 .contact-det p{
 	position:relative;
