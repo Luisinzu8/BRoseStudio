@@ -2481,13 +2481,13 @@ figure.vimeo a img, figure.youtube a img {
             transform: scale(1.05) translateY(-100px);
 }
 .contact-det:nth-of-type(1) {
-	background-color:#ffc9c9;
+	background-color:#fff;
 }
 .contact-det:nth-of-type(2) { 
 	background-color:#ffd3d3;
 }
 .contact-det:nth-of-type(3) { 
-	background-color:#ffe0e0;
+	background-color:#93bcff;
 }
 .contact-det p{
 	position:relative;
@@ -2497,7 +2497,7 @@ figure.vimeo a img, figure.youtube a img {
 	font-size: 13px; 
 	line-height: 16px;
 	letter-spacing:1px;
-	color:#fff;
+	color:#000;
 	padding-bottom:30px;
 }
 .contact-det h6{
@@ -2506,7 +2506,7 @@ figure.vimeo a img, figure.youtube a img {
 	font-style: italic;
 	width:100%;
 	font-weight:300;
-	color:#f1f1f1;
+	color:#000;
 	letter-spacing:1px;
 }
 .contact-det p span{
@@ -2519,7 +2519,7 @@ figure.vimeo a img, figure.youtube a img {
 	height:1px;
 	top:7px;
 	left:34px;
-	background-color:#fff;
+	background-color:#000;
 } 
 
 /* #Google map
