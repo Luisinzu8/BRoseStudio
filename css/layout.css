@@ -783,7 +783,7 @@ ul.slimmenu.collapsed li > ul {
 	line-height:40px;
 	font-weight:700;
 	letter-spacing:3px;
-	color:#f8f8f8;
+	color:#fff;
 	text-transform:uppercase;
 } 
 .home-text p{
@@ -799,6 +799,7 @@ ul.slimmenu.collapsed li > ul {
 .home-text p span{
 	padding:6px 25px;
 	border-radius:2px;
+    font-family: 'Sacramento', cursive;
 }
 .link-down{
 	position:absolute;
