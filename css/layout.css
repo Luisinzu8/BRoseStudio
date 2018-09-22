@@ -785,6 +785,8 @@ ul.slimmenu.collapsed li > ul {
 	letter-spacing:3px;
 	color:#fff;
 	text-transform:uppercase;
+    padding: 6px 25px;
+    border-radius: 2px;
 } 
 .home-text p{
 	text-align:center;
@@ -797,8 +799,6 @@ ul.slimmenu.collapsed li > ul {
 	letter-spacing:2px;
 }
 .home-text p span{
-	padding:6px 25px;
-	border-radius:2px;
     font-family: 'Sacramento', cursive;
 }
 .link-down{
